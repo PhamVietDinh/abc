@@ -1,0 +1,14 @@
+<div class="form-group">
+    <div class="col-xs-10">
+        <div class="form-group">
+  <label class="control-label" for="username">Username</label>
+  <input type="text" class="form-control" id="username" >
+</div>
+<div class="form-group">
+  <label class="control-label" for="password">Password</label>
+  <input type="password" class="form-control" id="password" aria-describedby="passwordStatus">
+</div>
+<div class="form-group">
+  <label class="control-label" for="phone">Phone Number</label>
+  <input type="tel" class="form-control" id="phone" aria-describedby="phoneStatus">
+</div>
